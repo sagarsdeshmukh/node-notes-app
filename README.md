@@ -1,6 +1,6 @@
 # node-notes-app
 
-Nodejs app, to add, view, delete the notes
+Nodejs app to add, view, delete, list the notes
 
 ## Simple NodeCLI notes app
 
