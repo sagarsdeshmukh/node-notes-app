@@ -14,7 +14,7 @@ Nodejs app, to add, view, delete the notes
 
 ### List note:
 
-`$ node app.js list
+`$ node app.js list`
 
 ### Read note:
 
